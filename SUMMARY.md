@@ -21,11 +21,4 @@
 * [🎧 12. Integer to Roman](11-20/12.-integer-to-roman.md)
 * [🎧 13. Roman to Integer](11-20/13.-roman-to-integer.md)
 * [🎧 14. Longest Common Prefix](11-20/14.-longest-common-prefix.md)
-
-## 😎 841-850
-
-* [🎧 844. Backspace String Compare](841-850/844.-backspace-string-compare.md)
-
-## 😎 901-910
-
-* [🎧 905. Sort Array By Parity](901-910/905.-sort-array-by-parity.md)
+* [🎧 15. 3Sum](11-20/15.-3sum.md)
