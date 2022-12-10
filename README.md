@@ -7,5 +7,3 @@ I'm a Data Analyst and I am developing my skills in Data Science and Machine Lea
 {% embed url="https://github.com/D-ENCODER" %}
 
 {% embed url="https://www.linkedin.com/in/het-joshi" %}
-
-{% embed url="https://het-joshi.web.app" %}
